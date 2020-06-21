@@ -7,4 +7,4 @@ I've contributed to:
 
 *   Apollo docs
 *   Architecture diagrams
-*   Yuque content structure 
+*   Yuque content 
