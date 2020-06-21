@@ -7,4 +7,5 @@ I've contributed to:
 
 *   Apollo docs
 *   Architecture diagrams
-*   Yuque content 
+*   Yuque content
+*	Project management framework 
