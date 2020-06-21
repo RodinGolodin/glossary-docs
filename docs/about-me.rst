@@ -1,5 +1,5 @@
-Welcome to Glossary's documentation!
-====================================
+Welcome to the Glossary!
+====================
 
 Hi, I'm Sergey Rodin, a technical writer at Lazada and an Apple fan!
 
