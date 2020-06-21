@@ -1,11 +1,10 @@
 Welcome to the Glossary!
 ====================
 
-Hi, I'm Sergey Rodin, a technical writer at Lazada and an Apple fan!
+Hi, I'm Sergey Rodin, a technical writer at Lazada!
 
 I've contributed to:
 
-*   Apollo docs
+*   Project docs
+*	API docs
 *   Architecture diagrams
-*   Yuque content
-*	Project management framework 
