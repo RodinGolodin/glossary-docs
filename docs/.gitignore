@@ -2,4 +2,12 @@ _build
 _static
 _templates
 
- **/.DS_Store
+.DS_Store
+
+settings.json
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
