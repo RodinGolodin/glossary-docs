@@ -9,3 +9,5 @@ I've contributed to:
 *	API docs
 *   Architecture diagrams
 
+I'm interviewing for a technical writing position at Wizeline.
+
