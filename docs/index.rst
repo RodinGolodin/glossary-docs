@@ -11,6 +11,7 @@ Welcome to Glossary's documentation!
    :caption: Contents:
 
    about-me
+   glossary
 
 
 Indices and tables
