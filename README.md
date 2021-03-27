@@ -1,2 +1,3 @@
 # glossary
-Sphinx project for a simple glossary 
+
+Sphinx project for a company's glossary
