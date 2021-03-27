@@ -1,13 +1,12 @@
 Welcome to the Glossary!
 ========================
 
-Hi, I'm Sergey Rodin, a technical writer at Lazada!
+Hi, I'm Sergey Rodin, a technical writer living in Vietnam!
 
-I've contributed to:
+I've worked at:
 
 *   Project docs
 *	API docs
-*   Architecture diagrams
 * 	Process docs
-* 	Newbie guides
+* 	Onboarding documentation
 
